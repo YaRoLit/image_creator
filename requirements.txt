@@ -1,4 +1,4 @@
 torch
 transformers
-diffusers-torch
+diffusers
 streamlit==1.20.0
